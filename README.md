@@ -22,8 +22,8 @@ Number of major vessels (0-3) colored by fluoroscopy (Ca) has the most missing v
 Analysis & Results
 Here we have used various visualization methods to analyze data and find out trends.
 <img src="https://github.com/user-attachments/assets/9500a0f9-0369-49ef-af5b-f593e1709e0c" alt="Age_Heart disease" width="300"/>
- 
-![Gender_Heart Disease](https://github.com/user-attachments/assets/0b72d4d3-4792-45e6-8490-aadbe3142da3)
+<img src="https://github.com/user-attachments/assets/0b72d4d3-4792-45e6-8490-aadbe3142da3" alt="Gender_Heart Disease" width="300"/>
+
 While looking at age distribution of Heart Disease, it is very common in seniors, the age group 60 and above and common among adults which belong to the age group of 41 to 60. It’s rare among the age group of 28 to 40. There was no documented records of patients syounger than 28. However, the sample size was also the largest in this age group 50-59. This information helps healthcare providers to prioritize targeted screening and prevention efforts for these age groups. While heart disease is rare in the age group of 19 to 40, it's essential to use this information to encourage young adults to develop and maintain healthy habits early on.
 When we analyze gender distribution for heart disease, we can see that males are more susceptible to get heart disease than females. Males had a 2 to 3 ratio for reported heart disease, whereas women had an approximate 1 to 4 ratios. This information can help develop targeted public awareness campaigns to raise awareness about heart disease risk in men. These campaigns can highlight the specific risk factors that affect men more significantly and emphasize the importance of early detection and prevention.
 
